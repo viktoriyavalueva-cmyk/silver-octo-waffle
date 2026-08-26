@@ -12,3 +12,7 @@ Config.setRspack(true);
 Config.setVideoImageFormat("jpeg");
 Config.setOverwriteOutput(true);
 Config.overrideBundlerConfig(enableTailwind);
+Config.setBrowserExecutable(
+  "/opt/pw-browsers/chromium_headless_shell-1194/chrome-linux/headless_shell",
+);
+Config.setChromiumIgnoreCertificateErrors(true);
