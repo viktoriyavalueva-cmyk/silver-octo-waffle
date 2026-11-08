@@ -1,0 +1,20 @@
+{
+  "v": 4,
+  "createdOnFiles": {"v": 1, "at": "2026-11-08T12:00:00Z"},
+  "lists": "css",
+  "title": "Эфир 3. Я слышу себя",
+  "order": ["cover", "duo", "week", "private", "tune", "energy", "stories", "roles", "voice", "creativity", "katya", "why", "body", "story", "notebook", "practice", "change", "tool", "homework", "tree", "next", "contacts"],
+  "sections": {
+    "s1": {"description": "Начало: мы вдвоём, прошлая неделя, безопасность записи и сонастройка", "start": "cover"},
+    "s2": {"description": "Режим энергосбережения, роли, голос сквозь шум и творчество", "start": "energy"},
+    "s3": {"description": "Разговор с Катей", "start": "katya"},
+    "s4": {"description": "Почему голос становится тихим и что знает тело", "start": "why"},
+    "s5": {"description": "Блокнот и практика «Самая маленькая часть»", "start": "notebook"},
+    "s6": {"description": "Пауза перед «да», домашнее задание, дерево жизни и следующая встреча", "start": "tool"}
+  },
+  "faces": {
+    "cormorant-garamond": {"family": "Cormorant Garamond", "href": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400..700;1,400..700&display=swap"},
+    "manrope": {"family": "Manrope", "href": "https://fonts.googleapis.com/css2?family=Manrope:wght@300..700&display=swap"}
+  },
+  "designSystems": []
+}
