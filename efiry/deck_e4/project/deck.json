@@ -1,0 +1,19 @@
+{
+  "v": 5,
+  "createdOnFiles": {"v": 1, "at": "2026-11-16T10:00:00Z"},
+  "lists": "css",
+  "format": {"v": 1, "shared": ["project/deck.css"]},
+  "title": "Эфир 4. Где заканчиваются дела и начинаюсь я",
+  "order": ["cover", "duo", "week", "private", "hook", "tune", "maslach", "beliefs", "team", "foreman", "social", "border", "notebook", "practice", "change", "tool", "homework", "podcast", "tree", "next", "contacts"],
+  "sections": {
+    "s1": {"description": "Начало: мы вдвоём, как прошли дни, безопасность записи, сонастройка", "start": "cover"},
+    "s2": {"description": "Почему дела занимают всё место: Маслач, старые выводы и мои истории", "start": "maslach"},
+    "s3": {"description": "Блокнот и практика «Мой круг»", "start": "notebook"},
+    "s4": {"description": "Инструмент, домашнее задание, вопрос про медитации, дерево жизни и следующая встреча", "start": "tool"}
+  },
+  "faces": {
+    "cormorant-garamond": {"family": "Cormorant Garamond", "href": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400..700;1,400..700&display=swap"},
+    "manrope": {"family": "Manrope", "href": "https://fonts.googleapis.com/css2?family=Manrope:wght@300..700&display=swap"}
+  },
+  "designSystems": []
+}
