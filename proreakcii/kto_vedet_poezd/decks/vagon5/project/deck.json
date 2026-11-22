@@ -1,0 +1,20 @@
+{
+  "v": 5,
+  "createdOnFiles": {"v": 1, "at": "2026-11-23T18:00:00Z"},
+  "lists": "css",
+  "format": {"v": 1, "shared": ["project/deck.css"]},
+  "title": "Кто ведёт поезд? Вагон 5. Осознанность",
+  "order": ["cover", "recap", "traditions", "kabat", "twostates", "ground", "flex", "traffic", "zimbardo", "times", "oettingen", "example", "plan", "faq", "keep", "together", "route", "driver", "homework", "thanks"],
+  "sections": {
+    "s1": {"description": "Вступление: две традиции и что такое осознанность", "start": "cover"},
+    "s2": {"description": "Практики: заземление и гибкость внимания", "start": "ground"},
+    "s3": {"description": "Практики: взгляд на своё время и от намерения к действию", "start": "zimbardo"},
+    "s4": {"description": "Вопросы и как удержать навыки", "start": "faq"},
+    "s5": {"description": "Пять вагонов вместе, закрытие курса и домашнее задание", "start": "together"}
+  },
+  "faces": {
+    "cormorant-garamond": {"family": "Cormorant Garamond", "href": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400..700;1,400..700&display=swap"},
+    "manrope": {"family": "Manrope", "href": "https://fonts.googleapis.com/css2?family=Manrope:wght@300..700&display=swap"}
+  },
+  "designSystems": []
+}
