@@ -1,0 +1,21 @@
+{
+  "v": 5,
+  "createdOnFiles": {"v": 1, "at": "2026-11-23T12:00:00Z"},
+  "lists": "css",
+  "format": {"v": 1, "shared": ["project/deck.css"]},
+  "title": "Кто ведёт поезд? Вагон 2. Травма",
+  "order": ["cover", "recap", "lieberman", "label", "scenarios", "verbal", "prep", "steps1", "questions", "steps2", "beliefs", "rules", "chain", "ledoux", "saved", "pointx", "transfer", "memory", "case-women", "case-kitchen", "faq", "value", "week", "notmy", "homework", "next"],
+  "sections": {
+    "s1": {"description": "Вступление и почему называть эмоцию словом: эффект Либермана", "start": "cover"},
+    "s2": {"description": "Повторяющиеся сценарии и вербализация", "start": "scenarios"},
+    "s3": {"description": "Упражнение «Инвентаризация» в шесть шагов и правила", "start": "prep"},
+    "s4": {"description": "Связка эмоция и реакция, Павлов и Леду", "start": "chain"},
+    "s5": {"description": "Точка Х, перенос и пример из практики", "start": "pointx"},
+    "s6": {"description": "Вопросы, практика на неделю, домашнее задание и следующий вагон", "start": "faq"}
+  },
+  "faces": {
+    "cormorant-garamond": {"family": "Cormorant Garamond", "href": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400..700;1,400..700&display=swap"},
+    "manrope": {"family": "Manrope", "href": "https://fonts.googleapis.com/css2?family=Manrope:wght@300..700&display=swap"}
+  },
+  "designSystems": []
+}
