@@ -1,0 +1,21 @@
+{
+  "v": 5,
+  "createdOnFiles": {"v": 1, "at": "2026-11-23T10:00:00Z"},
+  "lists": "css",
+  "format": {"v": 1, "shared": ["project/deck.css"]},
+  "title": "Кто ведёт поезд? Вагон 1. Фундамент",
+  "order": ["cover", "why", "train", "rails", "wagons", "open", "deal", "locus", "guilt", "case-designer", "fusion", "hyper", "pygmalion", "flat", "wason", "wason-life", "insight", "case-seven", "worked", "defense", "callus", "repeat", "case-price", "safety", "faq", "summary", "homework", "next"],
+  "sections": {
+    "s1": {"description": "Вступление: зачем этот курс, метафора поезда и пять вагонов", "start": "cover"},
+    "s2": {"description": "Позиция открытости, ответственность, причастность и гиперответственность", "start": "open"},
+    "s3": {"description": "Ожидания и внимание: эффект Пигмалиона и подтверждающее искажение", "start": "pygmalion"},
+    "s4": {"description": "Инсайт ещё не изменение", "start": "insight"},
+    "s5": {"description": "Защитные механизмы, повторяющаяся эмоция и пример из практики", "start": "defense"},
+    "s6": {"description": "Безопасность, вопросы, итог, домашнее задание и следующий вагон", "start": "safety"}
+  },
+  "faces": {
+    "cormorant-garamond": {"family": "Cormorant Garamond", "href": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400..700;1,400..700&display=swap"},
+    "manrope": {"family": "Manrope", "href": "https://fonts.googleapis.com/css2?family=Manrope:wght@300..700&display=swap"}
+  },
+  "designSystems": []
+}
