@@ -1,0 +1,20 @@
+{
+  "v": 5,
+  "createdOnFiles": {"v": 1, "at": "2026-11-22T12:00:00Z"},
+  "lists": "css",
+  "format": {"v": 1, "shared": ["project/deck.css"]},
+  "title": "Эфир 5. Когда ты в последний раз делала что-то просто так?",
+  "order": ["cover", "duo", "week", "private", "hook", "tune", "childhood", "useful", "flow", "story", "notebook", "practice", "change", "tool", "homework", "path", "take", "chat", "offline", "painting", "contacts"],
+  "sections": {
+    "s1": {"description": "Начало: как прошла неделя, безопасность записи, чем наполнить освободившееся место, сонастройка", "start": "cover"},
+    "s2": {"description": "Почему мы разучились «просто так»: детство, польза, поток, Нагоски и моя история", "start": "childhood"},
+    "s3": {"description": "Блокнот «Моя радость» и практика «Девочка, которая играет»", "start": "notebook"},
+    "s4": {"description": "Инструмент «15 минут просто так» и домашнее задание", "start": "tool"},
+    "s5": {"description": "Итог серии, что дальше: чат, офлайн-встречи, мастер-класс «Живая картина», контакты", "start": "path"}
+  },
+  "faces": {
+    "cormorant-garamond": {"family": "Cormorant Garamond", "href": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400..700;1,400..700&display=swap"},
+    "manrope": {"family": "Manrope", "href": "https://fonts.googleapis.com/css2?family=Manrope:wght@300..700&display=swap"}
+  },
+  "designSystems": []
+}
