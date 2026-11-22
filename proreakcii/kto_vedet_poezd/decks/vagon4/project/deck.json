@@ -1,0 +1,21 @@
+{
+  "v": 5,
+  "createdOnFiles": {"v": 1, "at": "2026-11-23T16:00:00Z"},
+  "lists": "css",
+  "format": {"v": 1, "shared": ["project/deck.css"]},
+  "title": "Кто ведёт поезд? Вагон 4. Перезагрузка",
+  "order": ["cover", "recap", "kolk", "nowords", "erickson", "lemon", "torch", "roots", "practice", "steps12", "step3", "step4", "steps56", "real", "resist", "case-lizard", "case-slab", "images", "honest", "faq", "room1", "room2", "room3", "room4", "result", "next"],
+  "sections": {
+    "s1": {"description": "Вступление: почему тело помнит, ван дер Колк", "start": "cover"},
+    "s2": {"description": "Почему образы работают: Эриксон, лимон, фонарик", "start": "erickson"},
+    "s3": {"description": "Практика в шесть шагов", "start": "roots"},
+    "s4": {"description": "Настоящий образ, сопротивление, два случая из практики", "start": "real"},
+    "s5": {"description": "Честно про практику и частые вопросы", "start": "honest"},
+    "s6": {"description": "Медитация «Комната эмоций», итог и следующий вагон", "start": "room1"}
+  },
+  "faces": {
+    "cormorant-garamond": {"family": "Cormorant Garamond", "href": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400..700;1,400..700&display=swap"},
+    "manrope": {"family": "Manrope", "href": "https://fonts.googleapis.com/css2?family=Manrope:wght@300..700&display=swap"}
+  },
+  "designSystems": []
+}
