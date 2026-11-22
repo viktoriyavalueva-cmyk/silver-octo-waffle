@@ -1,0 +1,22 @@
+{
+  "v": 5,
+  "createdOnFiles": {"v": 1, "at": "2026-11-23T14:00:00Z"},
+  "lists": "css",
+  "format": {"v": 1, "shared": ["project/deck.css"]},
+  "title": "Кто ведёт поезд? Вагон 3. Дефициты детства",
+  "order": ["cover", "recap", "berne", "hungry", "child", "bowlby", "story-wow", "story-five", "two-outputs", "diary", "rituals", "voices", "want-title", "want-scene", "three-parts", "permission", "your-questions", "practice", "steps12", "steps34", "ask", "money", "masks", "faq", "partners", "homework", "next"],
+  "sections": {
+    "s1": {"description": "Вступление: внутренний ребёнок, Берн и схема-терапия", "start": "cover"},
+    "s2": {"description": "Как формируется дефицит: Боулби, Эйнсворт и моя история с пятёркой", "start": "bowlby"},
+    "s3": {"description": "Чего вы ждёте от других: ритуалы и голоса", "start": "rituals"},
+    "s4": {"description": "Почему моё «хочу» мозг до сих пор считает опасным", "start": "want-title"},
+    "s5": {"description": "Практика «Войти в сцену взрослой»", "start": "practice"},
+    "s6": {"description": "Просьбы, деньги и разные лица дефицита", "start": "ask"},
+    "s7": {"description": "Вопросы, итог, домашнее задание и следующий вагон", "start": "faq"}
+  },
+  "faces": {
+    "cormorant-garamond": {"family": "Cormorant Garamond", "href": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400..700;1,400..700&display=swap"},
+    "manrope": {"family": "Manrope", "href": "https://fonts.googleapis.com/css2?family=Manrope:wght@300..700&display=swap"}
+  },
+  "designSystems": []
+}
