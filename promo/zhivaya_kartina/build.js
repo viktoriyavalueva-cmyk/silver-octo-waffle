@@ -45,7 +45,7 @@ const V={
 <div style="flex:1;padding:22px 40px 24px;position:relative">
 <div class="eb" style="font-size:22px">Мастер-класс · Москва</div>
 <div class="h" style="font-size:84px;margin-top:12px">Живая картина</div>
-<div class="q" style="font-size:40px;line-height:1.25;margin-top:14px">Вы уйдёте домой с картиной, которая каждый день будет напоминать, куда вы растёте</div>
+<div class="q" style="font-size:52px;line-height:1.2;margin-top:18px">Картина, в которой вы узнаете себя</div>
 <div style="position:absolute;left:40px;right:40px;bottom:22px;display:flex;justify-content:space-between;align-items:baseline"><div class="num" style="font-size:26px;color:#E8DFD2">4–5 часов · 5 000 ₽</div><div class="sig" style="font-size:34px">@Victory_Valueva</div></div></div></div>`],
 'mk_story.png':[1080,1920,`<div class="f" style="width:1080px;height:1920px"><img src="${P('tree')}" style="position:absolute;left:0;top:0;width:1080px;height:1440px;object-fit:cover;object-position:50% 50%">
 <div style="position:absolute;left:0;right:0;top:1180px;height:270px;background:linear-gradient(to bottom,rgba(31,40,54,0),${N})"></div>
