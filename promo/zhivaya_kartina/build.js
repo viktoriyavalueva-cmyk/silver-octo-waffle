@@ -18,6 +18,13 @@ const V={
 <div class="q" style="font-size:36px;margin-top:10px">Ваша эмоция в образе и дерево жизни на холсте</div>
 <div style="display:flex;flex-wrap:wrap;gap:10px;margin-top:22px"><span class="pill num">4–5 часов</span><span class="pill">Какао и чай</span><span class="pill">Уметь рисовать не нужно</span><span class="pill pg num">5 000 ₽</span></div>
 <div style="position:absolute;left:80px;right:80px;bottom:34px;display:flex;justify-content:space-between;align-items:baseline"><div style="font-size:24px;color:#C9C2B6">Запись: «пойду» в комментариях</div><div class="sig" style="font-size:34px">@Victory_Valueva</div></div></div></div>`],
+'mk_anons_gora.png':[1080,1350,`<div class="f" style="width:1080px;height:1350px"><img src="${P('gold')}" style="position:absolute;left:0;top:0;width:1080px;height:760px;object-fit:cover;object-position:50% 40%">
+<div style="position:absolute;left:0;top:760px;width:1080px;height:590px;padding:54px 80px">
+<div class="eb" style="font-size:23px">Мастер-класс · Москва</div>
+<div class="h" style="font-size:118px;margin-top:18px">Живая картина</div>
+<div class="q" style="font-size:38px;margin-top:16px">Ваша эмоция в образе и новая высота на холсте</div>
+<div style="display:flex;flex-wrap:wrap;gap:10px;margin-top:28px"><span class="pill num">4–5 часов</span><span class="pill">Какао и чай</span><span class="pill">Уметь рисовать не нужно</span><span class="pill pg num">5 000 ₽</span></div>
+<div style="position:absolute;left:80px;right:80px;bottom:44px;display:flex;justify-content:space-between;align-items:baseline"><div style="font-size:24px;color:#C9C2B6">Запись: «пойду» в комментариях</div><div class="sig" style="font-size:34px">@Victory_Valueva</div></div></div></div>`],
 'mk_quote.png':[1080,1350,`<div class="f" style="width:1080px;height:1350px"><img src="${P('hand')}" style="position:absolute;inset:0;width:1080px;height:1350px;object-fit:cover;object-position:50% 40%">
 <div style="position:absolute;left:0;right:0;bottom:0;height:760px;background:linear-gradient(to bottom,rgba(31,40,54,0),rgba(31,40,54,.88) 38%,${N} 62%)"></div>
 <div style="position:absolute;left:80px;right:80px;bottom:90px">
